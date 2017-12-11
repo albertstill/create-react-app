@@ -1,6 +1,6 @@
 {
   "name": "albert-react-scripts",
-  "version": "1.0.16",
+  "version": "0.0.8",
   "description": "Configuration and scripts for Create React App with the old Bert spin.",
   "repository": "facebookincubator/create-react-app",
   "license": "MIT",
