@@ -8,7 +8,7 @@ class App extends Component {
       <div className={styles.app} >
         <div className={styles.appHeader} >
           <img src={logo} className={styles.appLogo}  alt="logo" />
-          <h2>Welcome to React</h2>
+          <h1 className={styles.appTitle} >Welcome to React</h1>
         </div>
         <p className={styles.appIntro} >
           To get started, edit <code>src/App.js</code> and save to reload.
