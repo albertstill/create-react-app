@@ -2,7 +2,7 @@
   "name": "albert-react-scripts",
   "version": "1.0.0",
   "description": "Configuration and scripts for Create React App + CSS Modules + configurable Babel.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "albertstill/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
